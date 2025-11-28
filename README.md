@@ -22,7 +22,11 @@ IBM P-TECH Student.<br><br>I'm a Software Engineer - Flutter Specialist,<br>and 
 [![](https://visitcount.itsvg.in/api?id=yosuef-sayed&icon=2&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yosf_s_hafeez) 
+If you enjoy my work and want to support me, you can contribute via [Patreon](https://www.patreon.com/CodeJoint), [PayPal](https://paypal.me/yosfsyd), or [Buy me a coffee](https://www.buymeacoffee.com/youssef_sayed).  
+Your support helps me keep creating and improving my projects!
 
+[![Support me on Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/CodeJoint)
+[<img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" width="300" />](https://paypal.me/yosfsyd)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />](https://www.buymeacoffee.com/youssef_sayed)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
